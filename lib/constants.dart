@@ -12,5 +12,12 @@ const filmes = [
   "wendell wild",
   "nightmare before christmas",
   "corpse bride",
-  "beetlejuice"
+  "beetlejuice",
+  "the witches",
+  "mistress of the dark",
+  "child's play",
+  "a nightmare on elm street",
+  "monster house",
+  "frankenstein",
+  "halloween"
 ];
